@@ -1,2 +1,2 @@
 export const BASE_URL =
-  "https://crudcrud.com/api/4e2b6f3f04d94477b9ab1f92c2b63ad4/data";
+  "https://crudcrud.com/api/d0245895e180481c9db8e3b905c0e4b5/data";
